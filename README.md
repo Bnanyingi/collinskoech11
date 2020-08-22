@@ -20,7 +20,5 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&labelColor=181818&logoColor=white&color=050F2C)
