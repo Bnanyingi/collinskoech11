@@ -1,5 +1,6 @@
-# Collins Koech
+
 ## Devoted Developer
+
 <h4>Check out <a href="https://collinskoechportfolio.web.app">MY PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
 <h2>Connect with me </h2>
