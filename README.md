@@ -1,5 +1,5 @@
 
-## Devoted Developer
+## #100DaysOfCode Round2
 
 <h4>Check out <a href="https://collinskoechportfolio.web.app">MY PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
