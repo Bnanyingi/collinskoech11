@@ -1,10 +1,11 @@
 
-## #100DaysOfCode Round2
-
-<h4>Check out <a href="https://collinskoechportfolio.web.app">MY PORTFOLIO</a></h4>
-<h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
 
 ### Profile Summary
+
+## #100DaysOfCode Round2
+
+![collinskoech11's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=collinskoech11&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
+
 
 [![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
@@ -12,7 +13,10 @@
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
 
 
-![Jesse-Bett's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=collinskoech11&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
+<h4>Check out <a href="https://collinskoechportfolio.web.app">MY PORTFOLIO</a></h4>
+<h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
+
+
 
 ## Technology & Tools
 
