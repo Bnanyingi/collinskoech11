@@ -6,6 +6,7 @@
 
 ![collinskoech11's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=collinskoech11&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 
+<img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinskoech11&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
 
 [![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
@@ -36,8 +37,10 @@
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/collinskoech11) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/collinskoech__/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://collinskoechportfolio.web.app)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/itskenyancoko) |
-|---|---|---|---|---|
+ [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/collinskoech11) 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/collinskoech__/) 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://collinskoechportfolio.web.app)
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/itskenyancoko) 
 
-<img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinskoech11&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
+
 
