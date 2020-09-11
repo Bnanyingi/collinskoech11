@@ -28,10 +28,12 @@
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&labelColor=181818&logoColor=white&color=050F2C)
 
 
-<h2>Connect with me </h2>
-<a href="https://twitter.com/itskenyancoko"><img src="twitter.png" width="24px" height="24px" margin-left="5px"></a>
-<a href="https://instagram.com/__co_ko_"><img src="instagram.png" width="24px" height="24px" margin-left="5px"></a>
-<a href="https://facebook.com/collins.koech.169"><img src="facebook.png" width="24px" height="24px" margin-left="5px"></a>
-<a href="mailto:collinskoechck34@gmail.com" target="blank"><img src="mail.png" width="24px" height="24px" margin-left="5px"></a>
+### Social media accounts 📫
 
+You can find and get touch with me on these accounts!
+
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/collinskoech11) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/collinskoech__/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://collinskoechportfolio.web.app)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/itskenyancoko) |
+|---|---|---|---|---|
+
+<img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinskoech11&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
 
