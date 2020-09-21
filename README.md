@@ -4,6 +4,8 @@
 
 ## #100DaysOfCode Round2
 
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=collinskoech11&column=7"/>
+
 <a href="https://profile-counter.glitch.me/collinskoech11/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>
 
 ![collinskoech11's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=collinskoech11&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
