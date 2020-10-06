@@ -1,7 +1,5 @@
 
 
-### Profile Summary
-
 ## #100DaysOfCode Round2
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=collinskoech11&column=7"/>
