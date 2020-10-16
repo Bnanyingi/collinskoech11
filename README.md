@@ -5,7 +5,6 @@
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=collinskoech11&column=7"/>
 
-<a href="https://profile-counter.glitch.me/collinskoech11/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>
 
 <img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinskoech11&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
 
@@ -36,7 +35,6 @@
 
 ### Social media accounts 📫
 
-You can find and get touch with me on these accounts!
 
  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/collinskoech11) 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/collinskoech__/) 
@@ -44,4 +42,4 @@ You can find and get touch with me on these accounts!
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/itskenyancoko) 
 
 
-
+<a href="https://profile-counter.glitch.me/collinskoech11/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>
