@@ -15,7 +15,7 @@
 [![social-life:inavtive](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
 
 
-<h4>Check out <a href="https://collinskoechportfolio.web.app">MY PORTFOLIO</a></h4>
+<h4>Check out <a href="https://collinskoechportfolio.web.app">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
 
 
