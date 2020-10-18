@@ -1,11 +1,11 @@
 
 
 ![collinskoech11's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=collinskoech11&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
-
+<!--github stats-->
 ## #100DaysOfCode Round2
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=collinskoech11&column=7"/>
-
+<!--Trophies-->
 
 <img width="300px" length="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinskoech11&&show_icons=true&title_color=000000&icon_color=2A75CF&text_color=000000&bg_color=ffffff"/> <br/>
 
