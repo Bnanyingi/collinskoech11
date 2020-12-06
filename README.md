@@ -1,10 +1,7 @@
-
-
-![Vanilla-1s-280px (2)](https://user-images.githubusercontent.com/38811409/89577215-03feff00-d839-11ea-8ef5-90aa030442f8.gif)
-
 ![collinskoech11's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=collinskoech11&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 <!--github anual stats-->
 
+![Vanilla-1s-280px (2)](https://user-images.githubusercontent.com/38811409/89577215-03feff00-d839-11ea-8ef5-90aa030442f8.gif)
 
 ## #100DaysOfCode Round2
 ## #DevDecember
