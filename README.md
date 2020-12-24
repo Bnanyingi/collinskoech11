@@ -1,7 +1,6 @@
 ![collinskoech11's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=collinskoech11&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
 <!--github anual stats-->
 
-## #100DaysOfCode Round2
 ## #DevDecember
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=collinskoech11&column=7"/>
@@ -35,13 +34,14 @@
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&labelColor=181818&logoColor=white&color=050F2C)
 
 
-### Social media accounts 
 
-
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/collinskoech11) 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/collinskoech__/) 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://collinskoechportfolio.web.app)
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/itskenyancoko) 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left" color:"#933ded";>
+<a href="https://twitter.com/itskenyancoko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/collinskoech/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
+<a href="https://fb.com/collinskoech169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anvesh duddu" height="30" width="40" /></a>
+<a href="https://instagram.com/collinskoech__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_thoughts_in_frame_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/collinskoech11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anveshduddu" height="30" width="40" /></a>
+</p>
 
 <a href="https://profile-counter.glitch.me/collinskoech11/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/collinskoech11/count.svg" /></a>
