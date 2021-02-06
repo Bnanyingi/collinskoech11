@@ -41,7 +41,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" color:"#933ded";>
 <a href="https://twitter.com/itskenyancoko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dudduanvesh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/collinskoech/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/collins-koech-kiprono-12138a204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anvesh duddu" height="30" width="40" /></a>
 <a href="https://fb.com/collinskoech169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anvesh duddu" height="30" width="40" /></a>
 <a href="https://instagram.com/collinskoech__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_thoughts_in_frame_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/collinskoech11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anveshduddu" height="30" width="40" /></a>
